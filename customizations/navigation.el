@@ -59,3 +59,6 @@
 
 ;; projectile everywhere!
 (projectile-global-mode)
+
+;; easy frame navigation using SHIFT-[up, down, left, right] arrows
+(windmove-default-keybindings)
